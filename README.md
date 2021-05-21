@@ -1,5 +1,15 @@
 # Baatein: Enhanced Chat App
 
+
+##  Team Members
+* Abhay Ubhale
+* Maitri Amin
+* Asavari Ambavane
+* Ruchika Wadhwa
+* Parth (Mentor)
+
+![alt text](https://drive.google.com/file/d/1juU7C7igM9JrfFZC2C6GBzBVIOpe2-hj/view?usp=sharing "Baatein Logo")
+
 ## Overview of the Idea
 
 The availability of chat apps in the market is extensive. Although, many of them are clones of preexisting chatting applications. Over time, we all have found some intermediary ways to do specific tasks that the current chat app cannot provide. The main aim of our project is to develop an application that will be extensively providing better features. Unlike other tangible chat applications available, **Baatein** not only brings about communication but also has a lot more in store. It is available on android devices as well as on the web, so you can find and access it whether you are on your desk or on the go! We have developed both  web and mobile apps for desktop and mobile phone users. The data will be synced across the devices.
@@ -43,15 +53,6 @@ The users often get important links. Everyone cannot read links to get an idea o
 ## Github Repositories
 * Mobile App: https://github.com/AsavariA/Chat-App
 * Web App: https://github.com/MaitriDA/chatApp
-
-##  Team Members
-* Abhay Ubhale
-* Maitri Amin
-* Asavari Ambavane
-* Ruchika Wadhwa
-
-## Mentor
-* Parth 
 
 ## What we learnt through this project?
 
