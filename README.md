@@ -2,7 +2,7 @@
 
 ## Overview of the Idea
 
-The availability of chat apps in the market is extensive. Although, many of them are clones of preexisting chatting applications. Over time, we all have found some intermediary ways to do specific tasks that the current chat app cannot provide. The main aim of our project is to develop an application that will be extensively providing better features. Unlike other tangible chat applications available, ‘Baatein’ not only brings about communication but also has a lot more in store. It is available on android devices as well as on the web, so you can find and access it whether you are on your desk or on the go! We have developed both  web and mobile apps for desktop and mobile phone users. The data will be synced across the devices.
+The availability of chat apps in the market is extensive. Although, many of them are clones of preexisting chatting applications. Over time, we all have found some intermediary ways to do specific tasks that the current chat app cannot provide. The main aim of our project is to develop an application that will be extensively providing better features. Unlike other tangible chat applications available, **Baatein** not only brings about communication but also has a lot more in store. It is available on android devices as well as on the web, so you can find and access it whether you are on your desk or on the go! We have developed both  web and mobile apps for desktop and mobile phone users. The data will be synced across the devices.
 
 
 ## Features Details
@@ -28,10 +28,17 @@ The app’s notification/pop-up notification will give the user a suggestive rep
 The users often get important links. Everyone cannot read links to get an idea of what the link is about. There will be a place in our app to mark important links, and the application will store a reference to that link in the form of an image of that site.
 
 ## Tech Stack
-* Mobile App: Flutter
+| Application | Technologies |
+| :------------: |:-------------:|
+| Mobile App | Flutter |
+| Web App  | ReactJS, HTML5, CSS3, VanillaJS |
+| Authentication | Firebase Authentication |
+| Database | Cloud Firestore |
+
+<!-- * Mobile App: 
 * Web App: ReactJS, HTML5, CSS3, VanillaJS
 * Authentication: Firebase Authentication
-* Database: Cloud Firestore
+* Database: Cloud Firestore -->
 
 ## Github Repositories
 * Mobile App: https://github.com/AsavariA/Chat-App
@@ -46,4 +53,21 @@ The users often get important links. Everyone cannot read links to get an idea o
 ## Mentor
 * Parth 
 
+## What we learnt through this project?
+
+* Asavari : 
+> I had the privilege of working on this project with the most hardworking and dedicated bunch of people. Since I worked on the mobile app part of the project, I gained a substantial amount of knowledge about app development in flutter which was a very novel concept for me. Along with this, I also learned how to use and operate the firebase console and the process of integrating it with flutter. Apart from the tutorials and project work, I definitely learned a lot from my team too.
+
+* Maitri : 
+> I worked on the web application of the Baatein project. I learnt about the frontend and backend frameworks along with its integration in the website. Explored and used npm packages in ReactJS like materialUI which helped in making a beautiful UI. In the backend part, I learned about data management in Cloud Firestore along with authentication of users. Lastly, I had an amazing experience working with the team and learned a lot from my fellow teammates.
+
+
+
+* Ruchika:
+> Even I worked on the web application part of Baatein. I focused more on the frontend part and hence I primarily learnt and explored ReactJS. Along with that I learnt about other important npm packages like MaterialUI,React Router. I have definitely improved my "development" skills and I'd like to thank the entire team for being so committed, patient and all of them were yet so diligent.
+
+
+
+* Abhay:
+> “Talent wins games, but teamwork and intelligence win championships”. I had great fun working with the team and learned a lot of new things from them. As a team leader, I got to know how decision making can be made effective by discussions. I got to learn React JS which was completely new to me. I continued it till I got comfortable with the MERN stack. Integrating both web and app versions was tricky but we managed. I would like to thank my team for such wonderful work!
 
