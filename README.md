@@ -20,6 +20,10 @@
   <img alt="Light" src="https://drive.google.com/uc?export=view&id=11wU60myPiDwuD-PSOdFqStaPPEnRnfym" width="25%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Light" src="https://drive.google.com/uc?export=view&id=12aGTPlQIoT4O0RrUw1moUFBIyZpK3JhM" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Light" src="https://drive.google.com/uc?export=view&id=1U28CIJP_zjuZMX2nKlkqEhvgNXG4uGOh" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Light" src="https://drive.google.com/uc?export=view&id=14pLBwYRhUnUQYm33NmOhInIt5pgm9YaF" width="25%">
 </p>
 
 ## Overview of the Idea
