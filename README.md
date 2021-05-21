@@ -70,17 +70,17 @@ The users often get important links. Everyone cannot read links to get an idea o
 
 # Web Application
 <p align="center">
-  <img alt="Login/Signup" src="https://drive.google.com/uc?export=view&id=1JlLnvoQApDiVbNS4CwFO-s42_vhob4oh" width="50%">
+  <img alt="Login/Signup" src="https://drive.google.com/uc?export=view&id=1JlLnvoQApDiVbNS4CwFO-s42_vhob4oh" width="80%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dashboard" src="https://drive.google.com/uc?export=view&id=1RTedz2jLpecAPoZFCXitLL3NoKyIJe9A" width="50%">
+  <img alt="Dashboard" src="https://drive.google.com/uc?export=view&id=1RTedz2jLpecAPoZFCXitLL3NoKyIJe9A" width="80%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="ChatScreen" src="https://drive.google.com/uc?export=view&id=1VJyck9n0f1GmF278IKdGZwY6baPGWKkb" width="50%">
+  <img alt="ChatScreen" src="https://drive.google.com/uc?export=view&id=1VJyck9n0f1GmF278IKdGZwY6baPGWKkb" width="80%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="ProfileScreen" src="https://drive.google.com/uc?export=view&id=14fFzJicn-lIV41oxB9K2LSeU0PFSUXuP" width="50%">
+  <img alt="ProfileScreen" src="https://drive.google.com/uc?export=view&id=14fFzJicn-lIV41oxB9K2LSeU0PFSUXuP" width="80%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="ToDo" src="https://drive.google.com/uc?export=view&id=1HSQOQ4sT_6eW1CXZi7eF25AtTn0DS-Zt" width="50%">
+  <img alt="ToDo" src="https://drive.google.com/uc?export=view&id=1HSQOQ4sT_6eW1CXZi7eF25AtTn0DS-Zt" width="80%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="AboutUs" src="https://drive.google.com/uc?export=view&id=1OheFqBJJRYZiUg-JS-K0vWRfCFZfN35K" width="50%">
+  <img alt="AboutUs" src="https://drive.google.com/uc?export=view&id=1OheFqBJJRYZiUg-JS-K0vWRfCFZfN35K" width="80%">
 </p>
 ## What we learnt through this project?
 
