@@ -8,7 +8,7 @@
 * Ruchika Wadhwa
 * Parth (Mentor)
 
-![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG)
+![image](https://drive.google.com/uc?export=view&id=12aGTPlQIoT4O0RrUw1moUFBIyZpK3JhM)
 
 ## Overview of the Idea
 
