@@ -85,7 +85,7 @@ The users often get important links. Everyone cannot read links to get an idea o
 
 ## Demo Videos
 
-![web_video](https://drive.google.com/uc?export=view&id=10YsSO_dBPzkEBKwDinEBn9-Ooaz5OaYP)
+![web_video](https://drive.google.com/uc?export=view&id=1zvJh9cL--hbRXtZ4dsXPijB4cna-5rMH)
 ![app_video](https://drive.google.com/uc?export=view&id=1Yf1yhpDWKAuaDrplduoZe6QVrDquJr2a)
 
 ## What we learnt through this project?
