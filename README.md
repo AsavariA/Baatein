@@ -53,7 +53,7 @@ The users often get important links. Everyone cannot read links to get an idea o
 
 ## Picture talk more than words
 
-# Mobile Application
+### Mobile Application
 <p align="center">
   <img alt="Getting Started" src="https://drive.google.com/uc?export=view&id=1VzjP29GzWjAelYg1EbEyJ0GUyvtq9vGj" width="25%">
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -68,7 +68,7 @@ The users often get important links. Everyone cannot read links to get an idea o
   <img alt="ToDo" src="https://drive.google.com/uc?export=view&id=1U28CIJP_zjuZMX2nKlkqEhvgNXG4uGOh" width="25%">
 </p>
 
-# Web Application
+### Web Application
 <p align="center">
   <img alt="Login/Signup" src="https://drive.google.com/uc?export=view&id=1JlLnvoQApDiVbNS4CwFO-s42_vhob4oh" width="80%">
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -82,6 +82,7 @@ The users often get important links. Everyone cannot read links to get an idea o
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="AboutUs" src="https://drive.google.com/uc?export=view&id=1OheFqBJJRYZiUg-JS-K0vWRfCFZfN35K" width="80%">
 </p>
+
 ## What we learnt through this project?
 
 * Asavari : 
