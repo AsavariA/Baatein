@@ -5,7 +5,7 @@
 </p>
 
 
-##  Team Members
+##  Team AMAR
 * Abhay Ubhale
 * Maitri Amin
 * Asavari Ambavane
@@ -17,7 +17,7 @@
 The availability of chat apps in the market is extensive. Although, many of them are clones of preexisting chatting applications. Over time, we all have found some intermediary ways to do specific tasks that the current chat app cannot provide. The main aim of our project is to develop an application that will be extensively providing better features. Unlike other tangible chat applications available, **Baatein** not only brings about communication but also has a lot more in store. It is available on android devices as well as on the web, so you can find and access it whether you are on your desk or on the go! We have developed both  web and mobile apps for desktop and mobile phone users. The data will be synced across the devices.
 
 
-## Features Details
+## Feature Details
 ### 1) Chatting with Friends
 The very obvious feature without which chat app will lose its essence. We can chat with our friends and contacts(from the phone’s contact list). The user can send or receive text msgs and images. Make the best of your time here with us with our beautiful UI and flawless user experience. Fast messaging on both website and app simultaneously never looked so easy! Join us to streamline all your conversations and much more coming soon.
 
@@ -47,16 +47,13 @@ The users often get important links. Everyone cannot read links to get an idea o
 | Authentication | Firebase Authentication |
 | Database | Cloud Firestore |
 
-<!-- * Mobile App: 
-* Web App: ReactJS, HTML5, CSS3, VanillaJS
-* Authentication: Firebase Authentication
-* Database: Cloud Firestore -->
-
 ## Github Repositories
 * Mobile App: https://github.com/AsavariA/Chat-App
 * Web App: https://github.com/MaitriDA/chatApp
 
 ## Picture talk more than words
+
+# Mobile Application
 <p align="center">
   <img alt="Getting Started" src="https://drive.google.com/uc?export=view&id=1VzjP29GzWjAelYg1EbEyJ0GUyvtq9vGj" width="25%">
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -71,6 +68,20 @@ The users often get important links. Everyone cannot read links to get an idea o
   <img alt="ToDo" src="https://drive.google.com/uc?export=view&id=1U28CIJP_zjuZMX2nKlkqEhvgNXG4uGOh" width="25%">
 </p>
 
+# Web Application
+<p align="center">
+  <img alt="Login/Signup" src="https://drive.google.com/uc?export=view&id=1JlLnvoQApDiVbNS4CwFO-s42_vhob4oh" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dashboard" src="https://drive.google.com/uc?export=view&id=1RTedz2jLpecAPoZFCXitLL3NoKyIJe9A" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="ChatScreen" src="https://drive.google.com/uc?export=view&id=1VJyck9n0f1GmF278IKdGZwY6baPGWKkb" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="ProfileScreen" src="https://drive.google.com/uc?export=view&id=14fFzJicn-lIV41oxB9K2LSeU0PFSUXuP" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="ToDo" src="https://drive.google.com/uc?export=view&id=1HSQOQ4sT_6eW1CXZi7eF25AtTn0DS-Zt" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="AboutUs" src="https://drive.google.com/uc?export=view&id=1OheFqBJJRYZiUg-JS-K0vWRfCFZfN35K" width="30%">
+</p>
 ## What we learnt through this project?
 
 * Asavari : 
