@@ -8,7 +8,7 @@
 * Ruchika Wadhwa
 * Parth (Mentor)
 
-![alt text](https://drive.google.com/file/d/1juU7C7igM9JrfFZC2C6GBzBVIOpe2-hj/view?usp=sharing "Baatein Logo")
+![alt text](https://drive.google.com/uc?export=view&id=1juU7C7igM9JrfFZC2C6GBzBVIOpe2-hj "Baatein Logo")
 
 ## Overview of the Idea
 
