@@ -83,6 +83,11 @@ The users often get important links. Everyone cannot read links to get an idea o
   <img alt="AboutUs" src="https://drive.google.com/uc?export=view&id=1OheFqBJJRYZiUg-JS-K0vWRfCFZfN35K" width="80%">
 </p>
 
+## Demo Videos
+
+![web_video](https://drive.google.com/uc?export=view&id=1E2QCJvvXb9epa6Xt04U8CVtdD7Lz4x0W)
+![app_video](https://drive.google.com/uc?export=view&id=14pLBwYRhUnUQYm33NmOhInIt5pgm9YaF)
+
 ## What we learnt through this project?
 
 * Asavari : 
