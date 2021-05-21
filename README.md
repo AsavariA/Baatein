@@ -2,12 +2,15 @@
 
 <p align="center">
   <img alt="Light" src="https://drive.google.com/uc?export=view&id=1Uo9kLsUyMDUq9wN_Q_Q6PLSCvdj0nTMx" width="55%">
+</p>
+
+## Team AMAR
 * Abhay Ubhale
 * Maitri Amin
 * Asavari Ambavane
 * Ruchika Wadhwa
 * Parth (Mentor)
-</p>
+
 
 ## Overview of the Idea
 
