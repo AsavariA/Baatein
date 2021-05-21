@@ -12,20 +12,6 @@
 * Ruchika Wadhwa
 * Parth (Mentor)
 
-<p align="center">
-  <img alt="Light" src="https://drive.google.com/uc?export=view&id=1VzjP29GzWjAelYg1EbEyJ0GUyvtq9vGj" width="25%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="https://drive.google.com/uc?export=view&id=16phXYB1Xws9NLfP9ts82-ESRiQj-_Akf" width="25%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="https://drive.google.com/uc?export=view&id=11wU60myPiDwuD-PSOdFqStaPPEnRnfym" width="25%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="https://drive.google.com/uc?export=view&id=12aGTPlQIoT4O0RrUw1moUFBIyZpK3JhM" width="25%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="https://drive.google.com/uc?export=view&id=1U28CIJP_zjuZMX2nKlkqEhvgNXG4uGOh" width="25%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="https://drive.google.com/uc?export=view&id=14pLBwYRhUnUQYm33NmOhInIt5pgm9YaF" width="25%">
-</p>
-
 ## Overview of the Idea
 
 The availability of chat apps in the market is extensive. Although, many of them are clones of preexisting chatting applications. Over time, we all have found some intermediary ways to do specific tasks that the current chat app cannot provide. The main aim of our project is to develop an application that will be extensively providing better features. Unlike other tangible chat applications available, **Baatein** not only brings about communication but also has a lot more in store. It is available on android devices as well as on the web, so you can find and access it whether you are on your desk or on the go! We have developed both  web and mobile apps for desktop and mobile phone users. The data will be synced across the devices.
@@ -69,6 +55,21 @@ The users often get important links. Everyone cannot read links to get an idea o
 ## Github Repositories
 * Mobile App: https://github.com/AsavariA/Chat-App
 * Web App: https://github.com/MaitriDA/chatApp
+
+## Picture talk more than words
+<p align="center">
+  <img alt="Getting Started" src="https://drive.google.com/uc?export=view&id=1VzjP29GzWjAelYg1EbEyJ0GUyvtq9vGj" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Login/Signup" src="https://drive.google.com/uc?export=view&id=1aMU-ILJ5_zpfUXHwh6XcDk-olFbvNuou" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="NavDrawer" src="https://drive.google.com/uc?export=view&id=16phXYB1Xws9NLfP9ts82-ESRiQj-_Akf" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="ChatScreen" src="https://drive.google.com/uc?export=view&id=11wU60myPiDwuD-PSOdFqStaPPEnRnfym" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="ChatScreen" src="https://drive.google.com/uc?export=view&id=12aGTPlQIoT4O0RrUw1moUFBIyZpK3JhM" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="ToDo" src="https://drive.google.com/uc?export=view&id=1U28CIJP_zjuZMX2nKlkqEhvgNXG4uGOh" width="25%">
+</p>
 
 ## What we learnt through this project?
 
