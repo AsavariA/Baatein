@@ -13,13 +13,13 @@
 * Parth (Mentor)
 
 <p align="center">
-  <img alt="Light" src="https://drive.google.com/uc?export=view&id=1VzjP29GzWjAelYg1EbEyJ0GUyvtq9vGj" width="45%">
+  <img alt="Light" src="https://drive.google.com/uc?export=view&id=1VzjP29GzWjAelYg1EbEyJ0GUyvtq9vGj" width="25%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="https://drive.google.com/uc?export=view&id=16phXYB1Xws9NLfP9ts82-ESRiQj-_Akf" width="45%">
+  <img alt="Light" src="https://drive.google.com/uc?export=view&id=16phXYB1Xws9NLfP9ts82-ESRiQj-_Akf" width="25%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="https://drive.google.com/uc?export=view&id=11wU60myPiDwuD-PSOdFqStaPPEnRnfym" width="45%">
+  <img alt="Light" src="https://drive.google.com/uc?export=view&id=11wU60myPiDwuD-PSOdFqStaPPEnRnfym" width="25%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="https://drive.google.com/uc?export=view&id=12aGTPlQIoT4O0RrUw1moUFBIyZpK3JhM" width="45%">
+  <img alt="Light" src="https://drive.google.com/uc?export=view&id=12aGTPlQIoT4O0RrUw1moUFBIyZpK3JhM" width="25%">
 </p>
 
 ## Overview of the Idea
