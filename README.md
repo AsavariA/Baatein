@@ -1,5 +1,6 @@
 # Baatein: Enhanced Chat App
 
+![image](https://drive.google.com/uc?export=view&id=1Uo9kLsUyMDUq9wN_Q_Q6PLSCvdj0nTMx)
 
 ##  Team Members
 * Abhay Ubhale
@@ -8,7 +9,7 @@
 * Ruchika Wadhwa
 * Parth (Mentor)
 
-![image](https://drive.google.com/uc?export=view&id=12aGTPlQIoT4O0RrUw1moUFBIyZpK3JhM)
+![image](https://drive.google.com/uc?export=view&id=12aGTPlQIoT4O0RrUw1moUFBIyZpK3JhM) ![image](https://drive.google.com/uc?export=view&id=12aGTPlQIoT4O0RrUw1moUFBIyZpK3JhM) ![image](https://drive.google.com/uc?export=view&id=12aGTPlQIoT4O0RrUw1moUFBIyZpK3JhM)
 
 ## Overview of the Idea
 
