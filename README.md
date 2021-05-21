@@ -1,16 +1,13 @@
 # Baatein: Enhanced Chat App
 
 <p align="center">
-  <img alt="Light" src="https://drive.google.com/uc?export=view&id=1Uo9kLsUyMDUq9wN_Q_Q6PLSCvdj0nTMx" width="400px">
-</p>
-
-
-##  Team AMAR
+  <img alt="Light" src="https://drive.google.com/uc?export=view&id=1Uo9kLsUyMDUq9wN_Q_Q6PLSCvdj0nTMx" width="55%">
 * Abhay Ubhale
 * Maitri Amin
 * Asavari Ambavane
 * Ruchika Wadhwa
 * Parth (Mentor)
+</p>
 
 ## Overview of the Idea
 
@@ -101,3 +98,4 @@ The users often get important links. Everyone cannot read links to get an idea o
 * Abhay:
 > “Talent wins games, but teamwork and intelligence win championships”. I had great fun working with the team and learned a lot of new things from them. As a team leader, I got to know how decision making can be made effective by discussions. I got to learn React JS which was completely new to me. I continued it till I got comfortable with the MERN stack. Integrating both web and app versions was tricky but we managed. I would like to thank my team for such wonderful work!
 
+> Special thanks to our mentor Parth for guiding us to a right path and helping us whenever needed!
